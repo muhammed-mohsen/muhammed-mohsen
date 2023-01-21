@@ -1,6 +1,6 @@
-## Hi there 👋 ![](https://komarev.com/ghpvc/?username=muhammed-mohsen&style=flat-square&label=PROFILE+VIEWS&color=blueviolet)
+## Hi there 👋 !
 
-### You can reach me out anytime for any question about my courses or anything you'd like to discuss ^^
+### You can reach me out anytime , you'd like to discuss ^^
 
 <p align ="center">
   <a href ="https://www.linkedin.com/in/muhammed-mohsen98/">
@@ -10,22 +10,23 @@
 </p>
 
 <p  align="center" >
-  <a href="https://github.com/muhammed-mohsen">
+<!--   <a href="https://github.com/muhammed-mohsen">
     <img src="https://github-readme-stats.vercel.app/api?username=muhammed-mohsen&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&langs_count=7" /> 
-  </a>
+  </a> -->
+  <a href="https://github.com/muhammed-mohsen">
+  <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-mohsen" />
+</a>
 </p>
 
 <!-- <a href="https://github.com/muhammed-mohsen">
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-mohsen" />
 </a> -->
 
-<a href="https://github.com/muhammed-mohsen">
+<!-- <a href="https://github.com/muhammed-mohsen">
   <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=muhammed-mohsen&langs_count=4&custom_title=My%20week%20stats" /> 
 </a>
 
-<a href="https://github.com/muhammed-mohsen">
-  <img align="center"  width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-mohsen" />
-</a>
+ -->
 
 # Programming Languages
 
